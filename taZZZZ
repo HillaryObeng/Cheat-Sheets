@@ -1,0 +1,188 @@
+[33mcommit 9d8ebd19fa0c76284e6decdd0d3a52600a6d46bd[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 0c98130 8ac672a
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 14:39:17 2022 +0000
+
+    Add readme file
+
+[33mcommit 0c98130a7ee3e0167b7cc770d88c837117f4dfee[m
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 14:38:37 2022 +0000
+
+    Readme
+
+[33mcommit 284588d5e92f11566fb56d3275b55f19fd306402[m
+Merge: 7d72fae 00a044d
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 14:21:23 2022 +0000
+
+    Change commit message
+
+[33mcommit 8ac672aae72fb10244a06a4c6a2265f04d6f39d3[m
+Merge: 7d72fae 00a044d
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 14:21:23 2022 +0000
+
+    Change commit message
+
+[33mcommit 7d72fae0f802d6a4a4f90f18dc04bf9ecc8336b3[m
+Merge: 53539b5 0408df1
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 14:18:01 2022 +0000
+
+    Pull to make changes to matplotlib commit message
+
+[33mcommit 00a044d47f49cb9784cb906e77cf2489a3bcbf75[m
+Merge: 53539b5 0408df1
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 14:18:01 2022 +0000
+
+    Pull to make changes to matplotlib commit message
+
+[33mcommit 53539b5e2b59e4aa1e414c2fe7721eb0336a13bd[m
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 14:16:54 2022 +0000
+
+    Matplotlib Cheat Sheets
+
+[33mcommit 09223cfac12ee903e40aadfae08dcb7cdce1eda1[m
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 14:12:32 2022 +0000
+
+    Git Version Control System Cheat Sheets
+
+[33mcommit 0408df15c20eafb237ffbeb85668c8a0ab365716[m
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 14:12:32 2022 +0000
+
+    Git Version Control System Cheat Sheets
+
+[33mcommit 91627c84b4243646e5e18b93322ac20d1ec9ce80[m
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 14:10:11 2022 +0000
+
+    Git message
+
+[33mcommit 2b5d086a48abef206f66f3f83de562c4206af093[m
+Merge: fea2d55 a296f82
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 14:06:54 2022 +0000
+
+    Makes changes to the commit messages
+
+[33mcommit fea2d55601ae903b8d04a4294d06eabba7229b78[m
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 14:00:35 2022 +0000
+
+    Git Version Control System Cheat-Sheet
+
+[33mcommit a296f821885d0c9e71f3627f8e745deefb9b5ae7[m
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 14:00:35 2022 +0000
+
+    Git Version Control System Cheat-Sheet
+
+[33mcommit d64c4b9ef73019611f5cf97ab127aab4e50b44cd[m
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 13:53:31 2022 +0000
+
+    Delete the Git folder
+
+[33mcommit eda39097549a47635aa23c98730a687dbe95c0c4[m
+Merge: 690bebf 178f170
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 13:51:42 2022 +0000
+
+    Merge https://github.com/HillaryObeng/Cheat-Sheets
+
+[33mcommit 690bebf7aad31605c2b3c756c032d49d59739f47[m
+Merge: 5a83b79 a86c2c1
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 13:43:09 2022 +0000
+
+     Git Version Control System Cheat Sheets
+
+[33mcommit 178f1701504bb2d52c7544d57eba8a9854e473a8[m
+Merge: 5a83b79 a86c2c1
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 13:43:09 2022 +0000
+
+     Git VCS Cheat Sheets
+
+[33mcommit 5a83b79bc38b4808db034384042cc880ec555dfd[m
+Merge: 51994ca cab00fb
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 13:33:26 2022 +0000
+
+    Git Version Control System Cheat-Sheets
+
+[33mcommit a86c2c15d018b814972bb2b0021b33d506982055[m
+Merge: 51994ca cab00fb
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 13:33:26 2022 +0000
+
+    Git Versio Control System Cheat-Sheets
+
+[33mcommit 51994ca0e6e59fcbb6ba7cccf2cda9e3de8d6c48[m
+Merge: f7861c5 496d961
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 13:30:22 2022 +0000
+
+    Git Version Control System Cheat-Sheets
+
+[33mcommit cab00fb3e90df87f0dcff203b74835ba84213244[m
+Merge: f7861c5 496d961
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 13:30:22 2022 +0000
+
+    Git Version Control System Cheat-Sheets
+
+[33mcommit f7861c5546ba27b20eda6833107dffda837f958b[m
+Merge: 492d728 54698b5
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 13:28:55 2022 +0000
+
+    Merge https://github.com/HillaryObeng/Cheat-Sheets
+
+[33mcommit 496d9610e394877ccf2441c366a21388e1a16058[m
+Merge: 492d728 54698b5
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 13:28:55 2022 +0000
+
+    Merge https://github.com/HillaryObeng/Cheat-Sheets
+
+[33mcommit 492d7280aa19ceec2c089c9e70a9f1e612746b74[m
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 13:23:08 2022 +0000
+
+    it Version Control System CheatSheet
+
+[33mcommit 54698b5234c10f30d9ac53aa70777c6197b610bb[m
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Thu Jun 2 13:23:08 2022 +0000
+
+    Git Version Control System CheatSheet
+
+[33mcommit dd64c2a23e8bfdbef34e454a0f0e0726b2468f19[m
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Wed Jun 1 18:54:12 2022 +0000
+
+    Usefull Cheatsheets
+
+[33mcommit 4a565ed6663202dcac7dcf75b7a832343af4dfe5[m
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Wed Jun 1 18:38:44 2022 +0000
+
+    Useful cheatsheets
+
+[33mcommit 96685168b4684f3bb17873ffca42ef2b18e39048[m
+Author: Hillary Obeng <kofisetornyoobeng@gmail.com>
+Date:   Wed Jun 1 18:26:05 2022 +0000
+
+    pandas cheatsheet
+
+[33mcommit 8ffb89891133fa0ebd7c076c10a56982d16ba001[m
+Author: Hillary Obeng <vobeng@archsolutions.online>
+Date:   Wed Jun 1 18:19:20 2022 +0000
+
+    Helpful cheatheets:
